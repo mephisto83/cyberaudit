@@ -1,0 +1,1 @@
+import React from 'react'; const Navigation: React.FC = () => null; export default Navigation;

@@ -1,0 +1,1 @@
+import React from 'react'; const LandingPage: React.FC = () => null; export default LandingPage;

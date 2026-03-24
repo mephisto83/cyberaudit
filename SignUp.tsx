@@ -1,0 +1,1 @@
+import React from 'react'; const SignUp: React.FC = () => null; export default SignUp;

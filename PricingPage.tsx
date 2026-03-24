@@ -1,0 +1,1 @@
+import React from 'react'; const PricingPage: React.FC = () => null; export default PricingPage;
