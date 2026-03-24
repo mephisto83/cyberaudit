@@ -40,22 +40,22 @@ const LandingPage: React.FC = () => {
   const howItWorks = [
     {
       step: 1,
-      title: 'Deploy Model',
+      title: 'Connect App',
       description: 'Connect CyberAudit to your AI application endpoints',
     },
     {
       step: 2,
-      title: 'Configure Quality/Speed',
+      title: 'Set Security Rules',
       description: 'Define security policies and vulnerability detection rules',
     },
     {
       step: 3,
-      title: 'Monitor Performance',
+      title: 'Run Security Scan',
       description: 'Review scan results and vulnerability reports in real-time',
     },
     {
       step: 4,
-      title: 'Optimize & Scale',
+      title: 'Review & Fix',
       description: 'Detect and prevent prompt injection attacks with advanced input validation and monitoring.',
     },
   ];
@@ -69,7 +69,7 @@ const LandingPage: React.FC = () => {
     },
     {
       name: 'Marcus Johnson',
-      role: 'CTO at AI Solutions Inc',
+      role: 'Peer-reviewed research',
       content: 'The memory savings allowed us to serve 3x more requests on the same hardware.',
       avatar: '👨‍💼',
     },
@@ -188,7 +188,7 @@ const LandingPage: React.FC = () => {
       <section className="py-20 sm:py-32 px-4 sm:px-6 lg:px-8 bg-gray-50 dark:bg-gray-900/50">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white mb-16 text-center">
-            What Our Users Say
+            What Sets CyberAudit Apart
           </h2>
 
           <div className="grid md:grid-cols-3 gap-8">
